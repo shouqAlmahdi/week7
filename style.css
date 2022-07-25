@@ -1,0 +1,269 @@
+.continer1 {
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: rgb(173, 86, 86);
+}
+
+#NavInfo {
+    background-color: rgb(239, 243, 243);
+    width: 40%;
+    height: 48px;
+    margin-left: 15%;
+    margin-top: -20px
+}
+
+h1 {
+    padding-left: 10px;
+    padding-top: 2px;
+    margin-left: 13px;
+}
+
+#SDiv {
+    background-color: rgb(239, 243, 243);
+    width: 30%;
+    height: 48px;
+    margin-left: 55%;
+    margin-top: -68px;
+}
+
+h2 {
+    padding-top: 10px;
+    margin-left: 35px;
+}
+
+#FourthDiv {
+    width: 60%;
+    margin-left: 16px;
+    padding-top: 15px;
+}
+
+#FourthDiv img {
+    width: 62%;
+    border-style: solid;
+    border-color: rgb(210, 211, 211);
+    margin-left: 2%;
+    border-width: 5px;
+}
+
+#TDiv {
+    background-color: rgb(210, 211, 211);
+    width: 55%;
+    margin-left: 42.2%;
+    margin-top: -27.5%;
+}
+
+h3 {
+    padding-top: 12px;
+    padding-left: 8px;
+    padding-bottom: 12px;
+    color: white;
+}
+
+h3:hover {
+    color: red;
+}
+
+span {
+    text-decoration: underline;
+}
+
+#TDiv1 ul {
+    list-style: none;
+    padding-top: 6px;
+}
+
+#TDiv1 {
+    width: 55%;
+    background-color: rgb(223, 226, 226);
+    margin-top: -2%;
+    margin-left: 42.2%;
+    padding-bottom: 0.002%;
+}
+
+#TDiv2 {
+    background-color: rgb(210, 211, 211);
+    width: 30%;
+    margin-left: 2.8%;
+}
+
+#TDiv3 {
+    background-color: rgb(210, 211, 211);
+    width: 30%;
+    margin-left: 35%;
+    margin-top: -23%;
+}
+
+#TDiv5 img {
+    width: 30%;
+    margin-left: 2.8%;
+    margin-top: -19px;
+}
+
+#TDiv6 img {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: -19px;
+}
+
+#TDiv7 img {
+    width: 30%;
+    margin-left: 67.3%;
+    margin-top: -19px;
+}
+
+#TDiv4 {
+    background-color: rgb(210, 211, 211);
+    width: 30%;
+    margin-left: 67.3%;
+    margin-top: -22.9%;
+}
+
+#TDiv9_1 img {
+    width: 18%;
+    padding-left: 3px;
+    padding-top: 8px;
+}
+
+#TDiv9_1 {
+    background-color: rgb(223, 226, 226);
+    margin-left: 2.8%;
+    width: 30%;
+    margin-top: -18.5px;
+    padding-bottom: 3%;
+}
+
+#one {
+    width: 80px;
+    height: 30px;
+    margin-left: 38%;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 12px;
+    background-color: rgb(50, 160, 81);
+    color: white;
+}
+
+#one:hover {
+    color: yellowgreen;
+}
+
+#two:hover {
+    color: yellowgreen;
+}
+
+#third:hover {
+    color: yellowgreen;
+}
+
+#TDiv8 {
+    background-color: rgb(210, 211, 211);
+    width: 30%;
+    margin-left: 2.8%;
+    margin-top: -2.2%;
+}
+
+#TDiv10 {
+    background-color: rgb(210, 211, 211);
+    width: 30%;
+    margin-left: 35%;
+    margin-top: -26.3%;
+}
+
+#TDiv10_1 img {
+    width: 18%;
+    padding-left: 3px;
+    padding-top: 8px;
+}
+
+#TDiv10_1 {
+    background-color: rgb(223, 226, 226);
+    width: 30%;
+    margin-left: 35%;
+    margin-top: -1.8%;
+    padding-bottom: 3%;
+}
+
+#two {
+    width: 140px;
+    height: 30px;
+    margin-left: 32%;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 12px;
+    background-color: rgb(50, 160, 81);
+    color: white;
+}
+
+#TDiv11 {
+    background-color: rgb(210, 211, 211);
+    width: 30%;
+    margin-left: 67.3%;
+    margin-top: -25.9%;
+}
+
+#TDiv11_1 img {
+    width: 18%;
+    padding-left: 3px;
+    padding-top: 10px;
+}
+
+#TDiv11_1 {
+    background-color: rgb(223, 226, 226);
+    width: 30%;
+    margin-left: 67.3%;
+    margin-top: -2.5%;
+    padding-bottom: 2.7%;
+}
+
+#third {
+    width: 140px;
+    height: 30px;
+    margin-left: 30%;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 12px;
+    background-color: rgb(50, 160, 81);
+    color: white;
+}
+
+footer {
+    background-color: rgb(239, 243, 243);
+    width: 100%;
+    height: 80px;
+    padding-bottom: 5px;
+}
+
+footer img {
+    width: 4%;
+    height: 80%;
+    margin-top: -8%;
+}
+
+#Lhead {
+    margin-left: 40%;
+    padding-top: 5px;
+}
+
+.final {
+    margin-top: -8%;
+}
+
+#last {
+    display: inline-flex;
+    margin-left: 35%;
+}
+
+#Diff {
+    padding-top: 12px;
+    padding-left: 8px;
+    padding-bottom: 17px;
+    color: white;
+}
+
+#Diff:hover {
+    color: red;
+}
+
+h4:hover {
+    color: blue;
+}
